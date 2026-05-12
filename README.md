@@ -122,35 +122,40 @@ screenshots/
 ```bash
 git clone https://github.com/yourusername/startupiq.git
 cd startupiq
-
+```
 
 Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm run dev
+```
 
 Backend Setup
+```bash
 
 cd backend
 pip install -r requirements.txt
 python app.py
+```
 
 🔐 Environment Variables
-
+```bash
 Create .env file:
 OPENAI_API_KEY=your_key
 JWT_SECRET=your_secret
 DATABASE_URL=sqlite:///startupiq.db
+```
 
 📈 Future Improvements
-
+```bash
 Real-time web citations
 Investor readiness score
 Pitch deck generator
 Team collaboration
 n8n automation workflows
 Subscription billing
+```
 
 👨‍💻 Author
 Leena Tiwari
