@@ -125,29 +125,33 @@ cd startupiq
 
 
 Frontend Setup
+
 cd frontend
 npm install
 npm run dev
+
 Backend Setup
+
 cd backend
 pip install -r requirements.txt
 python app.py
+
 🔐 Environment Variables
 
 Create .env file:
-
 OPENAI_API_KEY=your_key
 JWT_SECRET=your_secret
 DATABASE_URL=sqlite:///startupiq.db
+
 📈 Future Improvements
+
 Real-time web citations
 Investor readiness score
 Pitch deck generator
 Team collaboration
 n8n automation workflows
 Subscription billing
+
 👨‍💻 Author
-
 Leena Tiwari
-
 GitHub: https://github.com/leenaTIWARI
