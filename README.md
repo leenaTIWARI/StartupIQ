@@ -1,4 +1,4 @@
-StartupIQ — AI Startup Idea Validation Platform
+**StartupIQ — AI Startup Idea Validation Platform**
 StartupIQ is an AI-powered web platform designed to help founders, students, entrepreneurs, and creators validate startup ideas quickly and intelligently. Users enter their business idea, target audience, and industry, and the system generates a complete analysis report using AI.
 The platform provides insights such as market opportunity, competitor analysis, SWOT analysis, monetization strategies, MVP roadmap, growth suggestions, and investor pitch summaries. Instead of spending weeks researching or hiring consultants, users can receive structured startup guidance in minutes.
 StartupIQ is built as a modern SaaS product with a professional dashboard where users can save ideas, compare multiple concepts, and export reports. It combines AI automation with product strategy to act like a virtual co-founder for early-stage founders.
