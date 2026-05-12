@@ -15,9 +15,7 @@ Backend API: https://your-render-link.onrender.com
 ---
 
 ## 📸 Screenshots
-
-(Add screenshots here)
-
+//i am adding
 - Landing Page
 - Dashboard
 - AI Report Output
