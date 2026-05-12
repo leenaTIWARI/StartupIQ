@@ -1,158 +1,155 @@
-# StartupIQ 🚀  
-**Validate Ideas. Build Faster.**
+# StartupIQ 🚀
+### Validate Ideas. Build Faster.
 
 StartupIQ is an AI-powered startup idea validation platform that helps founders, students, entrepreneurs, and creators turn raw ideas into actionable business plans in minutes.
 
-Instead of spending weeks on research, StartupIQ provides instant AI-generated startup reports including:
-
-- Market Opportunity Analysis  
-- Competitor Research  
-- SWOT Analysis  
-- Monetization Strategies  
-- MVP Roadmap  
-- Growth Suggestions  
-- Investor Pitch Summary  
-
-It works like a **virtual co-founder** for early-stage builders.
+It acts like a virtual co-founder by generating structured startup reports using AI.
 
 ---
 
-## 🌐 Overview
+## 🌐 Live Demo
 
-StartupIQ is designed as a premium SaaS web platform where users can:
-
-✅ Submit startup ideas  
-✅ Analyze market potential instantly  
-✅ Save and manage multiple reports  
-✅ Compare startup concepts  
-✅ Export reports as PDF  
-✅ Get founder-level business guidance using AI
+Frontend: https://your-vercel-link.vercel.app  
+Backend API: https://your-render-link.onrender.com
 
 ---
 
-## ✨ Features
+## 📸 Screenshots
 
-### 🧠 AI Startup Validation
-Analyze business ideas using AI models.
+(Add screenshots here)
 
-### 📊 Competitor Research
-Understand existing players in your market.
-
-### ⚡ SWOT Analysis
-Get strengths, weaknesses, opportunities, and threats.
-
-### 💰 Revenue Model Suggestions
-Discover possible monetization strategies.
-
-### 🛠 MVP Roadmap Generator
-Know what to build first.
-
-### 📈 Growth Strategy Insights
-Marketing and scaling recommendations.
-
-### 🎯 Investor Pitch Builder
-Create pitch summaries for funding.
-
-### 📁 Saved Reports Dashboard
-Manage all startup reports in one place.
-
-### 📄 Export as PDF
-Download reports professionally.
+- Landing Page
+- Dashboard
+- AI Report Output
+- Pricing Page
 
 ---
 
-## 🖥 Product Pages
+## ✨ Key Features
 
-### Landing Page
-Modern SaaS homepage with:
-
-- Hero section  
-- Animated dashboard preview  
-- Trusted by section  
-- Features showcase  
-- Pricing plans  
-- Testimonials  
-- FAQ  
-- Final CTA
-
-### Auth Pages
-- Login  
-- Signup  
-
-### Dashboard
-Professional founder workspace with:
-
-#### Sidebar Navigation
-- Dashboard  
-- Analyze Idea  
-- Saved Reports  
-- Compare Ideas  
-- Billing  
-- Settings  
-
-#### Main Workspace
-Input form:
-
-- Startup Name  
-- Industry  
-- Description  
-- Target Audience  
-
-Output Cards:
-
-- Market Opportunity  
-- Competitors  
-- SWOT  
-- Monetization  
-- MVP Features  
-- Risks  
-- Investor Pitch  
+- AI Startup Idea Validation
+- Market Opportunity Analysis
+- Competitor Research
+- SWOT Analysis
+- Revenue Model Suggestions
+- MVP Roadmap Generator
+- Growth Strategy Insights
+- Investor Pitch Summary
+- Save Reports Dashboard
+- Compare Multiple Ideas
+- Export Reports as PDF
+- JWT Authentication
 
 ---
 
-## 🎨 UI / Design Style
+## 🧠 How It Works
 
-StartupIQ uses a premium startup-grade design:
+1. User signs up / logs in  
+2. Enters startup details  
+3. AI analyzes idea  
+4. Generates business report instantly  
+5. User saves / exports report
 
-- Dark Theme  
-- Deep Black / Navy Background  
-- Purple + Blue Gradients  
-- Glassmorphism Cards  
-- Soft Shadows  
-- Rounded UI  
-- Smooth Animations  
-- Clean Typography  
-- Fully Responsive Layout  
+---
+
+## 🖥 Pages Included
+
+### Public Pages
+- Landing Page
+- Pricing
+- FAQ
+- Login
+- Signup
+
+### Protected Dashboard
+- Dashboard
+- Analyze Idea
+- Saved Reports
+- Compare Ideas
+- Billing
+- Settings
+
+---
+
+## 🎨 UI / Design
+
+- Dark SaaS Theme
+- Purple + Blue Gradients
+- Glassmorphism Cards
+- Responsive Layout
+- Framer Motion Animations
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js  
-- Tailwind CSS  
-- Framer Motion  
-- Lucide React Icons  
+- React.js
+- Tailwind CSS
+- Framer Motion
+- Axios
+- React Router
 
 ### Backend
-- Flask / FastAPI  
+- Python
+- Flask / FastAPI
+- JWT Authentication
 
 ### Database
-- SQLite / PostgreSQL  
+- SQLite (Development)
+- PostgreSQL (Production)
 
-### AI Integration
-- OpenAI API / Gemini API  
+### AI
+- OpenAI API / Gemini API
 
 ### Deployment
-- Vercel (Frontend)  
-- Render / Railway (Backend)
+- Vercel
+- Render / Railway
 
 ---
 
-## 📦 Installation
+## 📂 Folder Structure
+
+frontend/
+backend/
+database/
+screenshots/
+
+---
+
+## ⚙️ Installation
 
 ### Clone Repository
 
 ```bash
 git clone https://github.com/yourusername/startupiq.git
 cd startupiq
+
+
+Frontend Setup
+cd frontend
+npm install
+npm run dev
+Backend Setup
+cd backend
+pip install -r requirements.txt
+python app.py
+🔐 Environment Variables
+
+Create .env file:
+
+OPENAI_API_KEY=your_key
+JWT_SECRET=your_secret
+DATABASE_URL=sqlite:///startupiq.db
+📈 Future Improvements
+Real-time web citations
+Investor readiness score
+Pitch deck generator
+Team collaboration
+n8n automation workflows
+Subscription billing
+👨‍💻 Author
+
+Leena Tiwari
+
+GitHub: https://github.com/leenaTIWARI
